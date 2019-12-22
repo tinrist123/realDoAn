@@ -1,0 +1,211 @@
+C:\Users\TinDz\source\repos\mainBackGroundForm\mainBackGroundForm\bin\Debug\mainBackGroundForm.exe.config
+C:\Users\TinDz\source\repos\mainBackGroundForm\mainBackGroundForm\bin\Debug\mainBackGroundForm.exe
+C:\Users\TinDz\source\repos\mainBackGroundForm\mainBackGroundForm\bin\Debug\mainBackGroundForm.pdb
+C:\Users\TinDz\source\repos\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.csprojAssemblyReference.cache
+C:\Users\TinDz\source\repos\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.Form1.resources
+C:\Users\TinDz\source\repos\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.Properties.Resources.resources
+C:\Users\TinDz\source\repos\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.csproj.GenerateResource.cache
+C:\Users\TinDz\source\repos\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.csproj.CoreCompileInputs.cache
+C:\Users\TinDz\source\repos\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.exe
+C:\Users\TinDz\source\repos\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.pdb
+C:\Users\TinDz\source\repos\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.Home.resources
+C:\Users\TinDz\source\repos\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.Profile.resources
+C:\Users\TinDz\source\repos\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.Management.resources
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\bin\Debug\mainBackGroundForm.exe.config
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\bin\Debug\mainBackGroundForm.exe
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\bin\Debug\mainBackGroundForm.pdb
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.Form1.resources
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.Home.resources
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.Management.resources
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.Profile.resources
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.Properties.Resources.resources
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.exe
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.pdb
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Core.dll
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.dll
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Oauth2.v2.dll
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Sheets.v4.dll
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.pdb
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.xml
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Core.xml
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Oauth2.v2.pdb
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Oauth2.v2.xml
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Sheets.v4.pdb
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Sheets.v4.xml
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.csproj.ResolveComReference.cache
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.WorkSchedule.resources
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.csproj.CopyComplete
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\bin\Debug\credentials.json
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.csproj.CoreCompileInputs.cache
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.csprojAssemblyReference.cache
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.csproj.ResolveComReference.cache
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.Form1.resources
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.Home.resources
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.Management.resources
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.Profile.resources
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.Properties.Resources.resources
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.WorkSchedule.resources
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.csproj.GenerateResource.cache
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.csproj.CoreCompileInputs.cache
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.exe
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.pdb
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\bin\Debug\credentials.json
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\bin\Debug\mainBackGroundForm.exe.config
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\bin\Debug\mainBackGroundForm.exe
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\bin\Debug\mainBackGroundForm.pdb
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Auth.dll
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Core.dll
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.dll
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Oauth2.v2.dll
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Sheets.v4.dll
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.pdb
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.xml
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Auth.xml
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Core.pdb
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Core.xml
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Oauth2.v2.pdb
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Oauth2.v2.xml
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Sheets.v4.pdb
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Sheets.v4.xml
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TinDz\Desktop\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.csproj.CopyComplete
+E:\mainBackGroundForm\mainBackGroundForm\bin\Debug\credentials.json
+E:\mainBackGroundForm\mainBackGroundForm\bin\Debug\mainBackGroundForm.exe.config
+E:\mainBackGroundForm\mainBackGroundForm\bin\Debug\mainBackGroundForm.exe
+E:\mainBackGroundForm\mainBackGroundForm\bin\Debug\mainBackGroundForm.pdb
+E:\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Auth.dll
+E:\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+E:\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Core.dll
+E:\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.dll
+E:\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Oauth2.v2.dll
+E:\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.PlatformServices.dll
+E:\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Sheets.v4.dll
+E:\mainBackGroundForm\mainBackGroundForm\bin\Debug\Newtonsoft.Json.dll
+E:\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.pdb
+E:\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.xml
+E:\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Auth.pdb
+E:\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Auth.xml
+E:\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Core.pdb
+E:\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Core.xml
+E:\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Oauth2.v2.pdb
+E:\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Oauth2.v2.xml
+E:\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Sheets.v4.pdb
+E:\mainBackGroundForm\mainBackGroundForm\bin\Debug\Google.Apis.Sheets.v4.xml
+E:\mainBackGroundForm\mainBackGroundForm\bin\Debug\Newtonsoft.Json.xml
+E:\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.csprojAssemblyReference.cache
+E:\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.csproj.ResolveComReference.cache
+E:\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.Form1.resources
+E:\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.Home.resources
+E:\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.Management.resources
+E:\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.Profile.resources
+E:\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.Properties.Resources.resources
+E:\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.WorkSchedule.resources
+E:\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.csproj.GenerateResource.cache
+E:\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.csproj.CoreCompileInputs.cache
+E:\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.csproj.CopyComplete
+E:\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.exe
+E:\mainBackGroundForm\mainBackGroundForm\obj\Debug\mainBackGroundForm.pdb
+E:\mainBackGroundForm\mainBackGroundForm\bin\Debug\GemBox.Spreadsheet.dll
+E:\mainBackGroundForm\mainBackGroundForm\bin\Debug\GemBox.Spreadsheet.WinFormsUtilities.dll
+E:\mainBackGroundForm\mainBackGroundForm\bin\Debug\GemBox.Spreadsheet.xml
+E:\mainBackGroundForm\mainBackGroundForm\bin\Debug\GemBox.Spreadsheet.WinFormsUtilities.xml
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\credentials.json
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\mainBackGroundForm.exe.config
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\mainBackGroundForm.exe
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\mainBackGroundForm.pdb
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\GemBox.Spreadsheet.dll
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\GemBox.Spreadsheet.WinFormsUtilities.dll
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.Auth.dll
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.Core.dll
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.dll
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.Oauth2.v2.dll
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.PlatformServices.dll
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.Sheets.v4.dll
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Newtonsoft.Json.dll
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\GemBox.Spreadsheet.xml
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\GemBox.Spreadsheet.WinFormsUtilities.xml
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.pdb
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.xml
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.Auth.pdb
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.Auth.xml
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.Core.pdb
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.Core.xml
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.Oauth2.v2.pdb
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.Oauth2.v2.xml
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.Sheets.v4.pdb
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.Sheets.v4.xml
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Newtonsoft.Json.xml
+D:\mainBackGroundForm (1)\mainBackGroundForm\obj\Debug\mainBackGroundForm.csprojAssemblyReference.cache
+D:\mainBackGroundForm (1)\mainBackGroundForm\obj\Debug\mainBackGroundForm.csproj.ResolveComReference.cache
+D:\mainBackGroundForm (1)\mainBackGroundForm\obj\Debug\mainBackGroundForm.Form1.resources
+D:\mainBackGroundForm (1)\mainBackGroundForm\obj\Debug\mainBackGroundForm.Home.resources
+D:\mainBackGroundForm (1)\mainBackGroundForm\obj\Debug\mainBackGroundForm.Management.resources
+D:\mainBackGroundForm (1)\mainBackGroundForm\obj\Debug\mainBackGroundForm.Profile.resources
+D:\mainBackGroundForm (1)\mainBackGroundForm\obj\Debug\mainBackGroundForm.Properties.Resources.resources
+D:\mainBackGroundForm (1)\mainBackGroundForm\obj\Debug\mainBackGroundForm.WorkSchedule.resources
+D:\mainBackGroundForm (1)\mainBackGroundForm\obj\Debug\mainBackGroundForm.csproj.GenerateResource.cache
+D:\mainBackGroundForm (1)\mainBackGroundForm\obj\Debug\mainBackGroundForm.csproj.CoreCompileInputs.cache
+D:\mainBackGroundForm (1)\mainBackGroundForm\obj\Debug\mainBackGroundForm.csproj.CopyComplete
+D:\mainBackGroundForm (1)\mainBackGroundForm\obj\Debug\mainBackGroundForm.exe
+D:\mainBackGroundForm (1)\mainBackGroundForm\obj\Debug\mainBackGroundForm.pdb
+D:\mainBackGroundForm (1)\mainBackGroundForm\obj\Debug\mainBackGroundForm.FormDangNhap.resources
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\nhanvien.mdf
+D:\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\nhanvien_log.ldf
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\nhanvien.mdf
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\nhanvien_log.ldf
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\credentials.json
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\mainBackGroundForm.exe.config
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\mainBackGroundForm.exe
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\mainBackGroundForm.pdb
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\GemBox.Spreadsheet.dll
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\GemBox.Spreadsheet.WinFormsUtilities.dll
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.Auth.dll
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.Core.dll
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.dll
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.Oauth2.v2.dll
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.PlatformServices.dll
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.Sheets.v4.dll
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Newtonsoft.Json.dll
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\GemBox.Spreadsheet.xml
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\GemBox.Spreadsheet.WinFormsUtilities.xml
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.pdb
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.xml
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.Auth.pdb
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.Auth.xml
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.Core.pdb
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.Core.xml
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.Oauth2.v2.pdb
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.Oauth2.v2.xml
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.Sheets.v4.pdb
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Google.Apis.Sheets.v4.xml
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\bin\Debug\Newtonsoft.Json.xml
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\obj\Debug\mainBackGroundForm.csprojAssemblyReference.cache
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\obj\Debug\mainBackGroundForm.csproj.ResolveComReference.cache
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\obj\Debug\mainBackGroundForm.Form1.resources
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\obj\Debug\mainBackGroundForm.FormDangNhap.resources
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\obj\Debug\mainBackGroundForm.Home.resources
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\obj\Debug\mainBackGroundForm.Management.resources
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\obj\Debug\mainBackGroundForm.Profile.resources
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\obj\Debug\mainBackGroundForm.Properties.Resources.resources
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\obj\Debug\mainBackGroundForm.WorkSchedule.resources
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\obj\Debug\mainBackGroundForm.csproj.GenerateResource.cache
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\obj\Debug\mainBackGroundForm.csproj.CoreCompileInputs.cache
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\obj\Debug\mainBackGroundForm.csproj.CopyComplete
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\obj\Debug\mainBackGroundForm.exe
+E:\Da\mainBackGroundForm (1)\mainBackGroundForm\obj\Debug\mainBackGroundForm.pdb
